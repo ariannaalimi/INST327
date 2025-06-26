@@ -1,1 +1,2 @@
-Database Design and Mdeling
+# INST327
+Database Design and Modeling
